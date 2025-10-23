@@ -1,0 +1,12 @@
+# Arquivos e pastas a ignorar
+__pycache__/
+.Rproj.user/
+.DS_Store
+.env
+*.7z
+*.zip
+*.exe
+*.log
+node_modules/
+dist/
+build/
